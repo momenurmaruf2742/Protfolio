@@ -204,6 +204,8 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <table>
   <tr>
     <td align="center"><a href="http://momenurmaruf2742.github.io">
+        </tr>
+</table>
 # References 👏🏻
 
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
